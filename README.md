@@ -1,6 +1,16 @@
-## Letter counter
+## About project
 
-Capitalize every first letter of word
-To use this function import this like that: 
-``` import capitalize from 'jsmp-infra-tetianafomina-capitalizer';```
+Capitalize is a simple function for capitalizing every first letter of word.
+
+## How to use
+
+To use this function import this like that:
+` import capitalize from 'jsmp-infra-tetianafomina-capitalizer';`
+
+## Tests
+
+Run "npm run test:unit" or "yarn test:unit" to check if everything works as expected.
+
+## Author
+
 Created by Tetiana Fomina
