@@ -11,7 +11,9 @@
   },
   "keywords": [
     "string",
-    "capitalize"
+    "capitalize",
+    "capitalizer",
+    "jsmp"
   ],
   "author": "Tetiana Fomina",
   "license": "ISC",
