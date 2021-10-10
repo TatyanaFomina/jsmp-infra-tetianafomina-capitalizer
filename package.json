@@ -15,6 +15,7 @@
   ],
   "author": "Tetiana Fomina",
   "license": "ISC",
+  "repository": "github.com:TatyanaFomina/jsmp-infra-tetianafomina-capitalizer.git",
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/mocha": "^9.0.0",
