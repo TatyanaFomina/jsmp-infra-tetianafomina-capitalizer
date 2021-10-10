@@ -1,4 +1,4 @@
-import capitalize from './index';
+import capitalize from '../index';
 
 describe('Check Capitalizer', () => {
 it("check if letters are capitalized", () => {

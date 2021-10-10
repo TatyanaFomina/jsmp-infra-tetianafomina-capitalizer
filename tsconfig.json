@@ -3,7 +3,7 @@
       "target": "es5",
       "module": "commonjs",
       "sourceMap": true,
-      "outDir": "dist",
+      "outDir": "./lib",
       "strict": false,
       "esModuleInterop": true,
       "skipLibCheck": true,
@@ -12,6 +12,6 @@
       "emitDecoratorMetadata": true,
       "declaration": true
     },
-    "include": ["./*.ts"],
-    "exclude": ["./*.test.ts"]
+    "include": [ "src" ],
+    "exclude": ["node_modules", "**/tests/*"]
 }

@@ -1,12 +1,12 @@
 {
   "name": "jsmp-infra-tetianafomina-capitalizer",
-  "version": "1.1.3",
+  "version": "1.2.3",
   "description": "capitalize first letter of words",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "test:unit": "npm run compile && jest ./capitalizer.test.ts",
+    "test:unit": "npm run compile && jest",
     "compile": "tsc -p tsconfig.json",
-    "clean": "rimraf dist/",
+    "clean": "rimraf lib/",
     "pre-publish": "npm run clean && npm run test:unit && npm publish"
   },
   "keywords": [
@@ -20,8 +20,8 @@
   "repository": "github.com:TatyanaFomina/jsmp-infra-tetianafomina-capitalizer.git",
   "devDependencies": {
     "@types/jest": "^27.0.2",
-    "@types/mocha": "^9.0.0",
     "jest": "^27.2.5",
+    "rimraf": "^3.0.2",
     "ts-jest": "^27.0.5",
     "typescript": "^4.4.3"
   },
