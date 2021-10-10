@@ -1,6 +1,6 @@
 {
   "name": "jsmp-infra-tetianafomina-capitalizer",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "capitalize first letter of words",
   "main": "/lib/index.js",
   "scripts": {
