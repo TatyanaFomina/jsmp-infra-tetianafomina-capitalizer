@@ -29,7 +29,3 @@ capitalize('your test'); // 'Your Test'
 ## Author
 
 Created by Tetiana Fomina
-
-```
-
-```
