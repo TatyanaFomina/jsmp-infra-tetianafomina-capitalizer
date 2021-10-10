@@ -1,8 +1,9 @@
 {
   "name": "jsmp-infra-tetianafomina-capitalizer",
-  "version": "1.2.3",
+  "version": "1.2.2",
   "description": "capitalize first letter of words",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test:unit": "npm run compile && jest",
     "compile": "tsc -p tsconfig.json",
