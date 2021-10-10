@@ -24,8 +24,12 @@ Run "npm run test:unit" or "yarn test:unit" to check if everything works as expe
 
 ```
 capitalize('your test'); // 'Your Test'
+```
 
 ## Author
 
 Created by Tetiana Fomina
+
+```
+
 ```
