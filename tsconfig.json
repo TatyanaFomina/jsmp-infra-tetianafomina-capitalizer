@@ -3,10 +3,15 @@
       "target": "es5",
       "module": "commonjs",
       "sourceMap": true,
-      "outDir": "./lib",
+      "outDir": "lib",
       "strict": false,
       "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "experimentalDecorators": true,
+      "allowSyntheticDefaultImports": true,
+      "emitDecoratorMetadata": true,
+      "declaration": true
     },
     "include": [ "src" ],
-    "exclude": ["node_modules", "**/tests/*"]
+    "exclude": ["node_modules", "**/tests/*", "lib"]
 }
