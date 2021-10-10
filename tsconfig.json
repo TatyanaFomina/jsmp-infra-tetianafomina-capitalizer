@@ -6,11 +6,6 @@
       "outDir": "./lib",
       "strict": false,
       "esModuleInterop": true,
-      "skipLibCheck": true,
-      "experimentalDecorators": true,
-      "allowSyntheticDefaultImports": true,
-      "emitDecoratorMetadata": true,
-      "declaration": true
     },
     "include": [ "src" ],
     "exclude": ["node_modules", "**/tests/*"]
