@@ -1,6 +1,6 @@
 {
   "name": "jsmp-infra-tetianafomina-capitalizer",
-  "version": "1.2.2",
+  "version": "1.2.1",
   "description": "capitalize first letter of words",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,7 +14,8 @@
     "string",
     "capitalize",
     "capitalizer",
-    "jsmp"
+    "jsmp",
+    "word"
   ],
   "author": "Tetiana Fomina",
   "license": "ISC",
