@@ -3,4 +3,4 @@ node_modules
 .vscode
 src
 tsconfig.json
-jest.config.json
+jest.config.js
