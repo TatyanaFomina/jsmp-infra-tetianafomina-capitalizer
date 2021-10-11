@@ -13,7 +13,7 @@ $ npm install jsmp-infra-tetianafomina-capitalizer
 To use this function import this like that:
 
 ```
-import capitalize from 'jsmp-infra-tetianafomina-capitalizer';
+const capitalize = require('jsmp-infra-tetianafomina-capitalizer');
 ```
 
 ## Tests
