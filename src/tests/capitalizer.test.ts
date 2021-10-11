@@ -1,4 +1,4 @@
-import capitalize from '../index';
+const capitalize = require('../index');
 
 describe('Check Capitalizer', () => {
 it("check if letters are capitalized", () => {

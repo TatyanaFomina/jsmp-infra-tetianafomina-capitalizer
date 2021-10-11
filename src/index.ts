@@ -12,4 +12,4 @@ function capitalize(str: string): string {
     return str.replace(regexp, (str) => str.toUpperCase());
 }
 
-export default capitalize;
+module.exports = capitalize;
